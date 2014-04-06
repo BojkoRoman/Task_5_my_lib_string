@@ -1,0 +1,26 @@
+﻿Build started 06.04.2014 17:28:22.
+     1>Project "E:\Roman\Project Visual\Task5_my_lib_string\Task5_my_lib_string\Task5_my_lib_string.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Task5_my_lib_string.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Task5_my_lib_string.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt myLib.cpp
+         myLib.cpp
+     1>e:\roman\project visual\task5_my_lib_string\task5_my_lib_string\mylib.cpp(1): warning C4627: '#include "header_string.h"': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>e:\roman\project visual\task5_my_lib_string\task5_my_lib_string\mylib.cpp(27): warning C4129: '' : unrecognized character escape sequence
+     1>e:\roman\project visual\task5_my_lib_string\task5_my_lib_string\mylib.cpp(38): warning C4018: '>' : signed/unsigned mismatch
+     1>e:\roman\project visual\task5_my_lib_string\task5_my_lib_string\mylib.cpp(38): warning C4018: '>' : signed/unsigned mismatch
+     1>e:\roman\project visual\task5_my_lib_string\task5_my_lib_string\mylib.cpp(40): warning C4018: '<' : signed/unsigned mismatch
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"E:\Roman\Project Visual\Task5_my_lib_string\Debug\Task5_my_lib_string.lib" /NOLOGO Debug\myLib.obj
+         Debug\stdafx.obj
+         Task5_my_lib_string.vcxproj -> E:\Roman\Project Visual\Task5_my_lib_string\Debug\Task5_my_lib_string.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\Task5_my_lib_string.unsuccessfulbuild".
+         Touching "Debug\Task5_my_lib_string.lastbuildstate".
+     1>Done Building Project "E:\Roman\Project Visual\Task5_my_lib_string\Task5_my_lib_string\Task5_my_lib_string.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.25

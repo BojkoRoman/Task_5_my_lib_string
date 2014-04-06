@@ -1,0 +1,23 @@
+﻿1>------ Build started: Project: Task5_my_lib_string, Configuration: Debug Win32 ------
+1>Build started 06.04.2014 17:28:22.
+1>InitializeBuildStatus:
+1>  Touching "Debug\Task5_my_lib_string.unsuccessfulbuild".
+1>ClCompile:
+1>  All outputs are up-to-date.
+1>  myLib.cpp
+1>e:\roman\project visual\task5_my_lib_string\task5_my_lib_string\mylib.cpp(1): warning C4627: '#include "header_string.h"': skipped when looking for precompiled header use
+1>          Add directive to 'StdAfx.h' or rebuild precompiled header
+1>e:\roman\project visual\task5_my_lib_string\task5_my_lib_string\mylib.cpp(27): warning C4129: '' : unrecognized character escape sequence
+1>e:\roman\project visual\task5_my_lib_string\task5_my_lib_string\mylib.cpp(38): warning C4018: '>' : signed/unsigned mismatch
+1>e:\roman\project visual\task5_my_lib_string\task5_my_lib_string\mylib.cpp(38): warning C4018: '>' : signed/unsigned mismatch
+1>e:\roman\project visual\task5_my_lib_string\task5_my_lib_string\mylib.cpp(40): warning C4018: '<' : signed/unsigned mismatch
+1>Lib:
+1>  Task5_my_lib_string.vcxproj -> E:\Roman\Project Visual\Task5_my_lib_string\Debug\Task5_my_lib_string.lib
+1>FinalizeBuildStatus:
+1>  Deleting file "Debug\Task5_my_lib_string.unsuccessfulbuild".
+1>  Touching "Debug\Task5_my_lib_string.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:01.25
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
