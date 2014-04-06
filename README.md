@@ -6,4 +6,4 @@ my_lib
 
 Розробити власний повний аналог бібілотеки string.h (функції strcpy, strcat, ...) мови С. Бібліотека повинна бути розроблена виключно на мові С. Можна і бажано використовувати функції memcpy, memmove, memchr, memcmp, memset. А для вводу і виводу - stdio.
 
-Для підключення my_dll_string. Скиньте ці два файли(header_string.h і Task5_my_lib_string.lib) в папку з проектом і підключіть їх за допомогою гарячих клавіш Shift + Alt + A.
+Для підключення my_lib_string. Скиньте ці два файли(header_string.h і Task5_my_lib_string.lib) в папку з проектом і підключіть їх за допомогою гарячих клавіш Shift + Alt + A.
